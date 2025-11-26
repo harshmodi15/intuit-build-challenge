@@ -1,0 +1,7 @@
+# Intuit Build Challenge - Requirements
+# Note: This project uses only Python standard library
+# No external dependencies required
+
+# For running tests with coverage
+# pytest>=7.0.0
+# pytest-cov>=4.0.0

@@ -1,0 +1,51 @@
+order_id,date,product_category,product_name,quantity,unit_price,customer_region,customer_segment,payment_method
+1001,2024-01-05,Electronics,Wireless Mouse,2,29.99,North,Consumer,Credit Card
+1002,2024-01-05,Electronics,Mechanical Keyboard,1,149.99,South,Business,PayPal
+1003,2024-01-06,Office Supplies,Notebook Pack,5,12.99,East,Consumer,Debit Card
+1004,2024-01-06,Furniture,Office Chair,1,299.99,West,Business,Credit Card
+1005,2024-01-07,Electronics,USB Hub,3,24.99,North,Consumer,Credit Card
+1006,2024-01-07,Office Supplies,Pen Set,10,8.99,South,Home Office,PayPal
+1007,2024-01-08,Electronics,Monitor Stand,1,79.99,East,Business,Credit Card
+1008,2024-01-08,Furniture,Standing Desk,1,549.99,North,Business,Credit Card
+1009,2024-01-09,Office Supplies,Sticky Notes,20,4.99,West,Consumer,Debit Card
+1010,2024-01-09,Electronics,Webcam,2,89.99,South,Home Office,PayPal
+1011,2024-01-10,Furniture,Bookshelf,1,199.99,East,Consumer,Credit Card
+1012,2024-01-10,Electronics,Laptop Stand,1,59.99,North,Business,Credit Card
+1013,2024-01-11,Office Supplies,Paper Ream,15,7.99,South,Business,Debit Card
+1014,2024-01-11,Electronics,Wireless Charger,4,34.99,West,Consumer,PayPal
+1015,2024-01-12,Furniture,Filing Cabinet,1,179.99,East,Business,Credit Card
+1016,2024-01-12,Electronics,Bluetooth Speaker,2,69.99,North,Home Office,Credit Card
+1017,2024-01-13,Office Supplies,Binder Set,8,15.99,South,Consumer,Debit Card
+1018,2024-01-13,Electronics,HDMI Cable,6,12.99,West,Business,PayPal
+1019,2024-01-14,Furniture,Ergonomic Chair,1,399.99,North,Business,Credit Card
+1020,2024-01-14,Electronics,Power Strip,3,19.99,East,Consumer,Credit Card
+1021,2024-01-15,Office Supplies,Desk Organizer,4,22.99,South,Home Office,PayPal
+1022,2024-01-15,Electronics,External SSD,1,129.99,West,Business,Credit Card
+1023,2024-01-16,Furniture,Monitor Arm,2,89.99,North,Business,Credit Card
+1024,2024-01-16,Electronics,Mouse Pad,5,14.99,East,Consumer,Debit Card
+1025,2024-01-17,Office Supplies,Label Maker,1,49.99,South,Business,Credit Card
+1026,2024-01-17,Electronics,USB-C Hub,2,44.99,West,Home Office,PayPal
+1027,2024-01-18,Furniture,Desk Lamp,3,39.99,North,Consumer,Credit Card
+1028,2024-01-18,Electronics,Webcam Light,2,29.99,East,Business,Credit Card
+1029,2024-01-19,Office Supplies,Whiteboard,1,89.99,South,Business,Debit Card
+1030,2024-01-19,Electronics,Microphone,1,149.99,West,Home Office,PayPal
+1031,2024-01-20,Furniture,Corner Desk,1,449.99,North,Business,Credit Card
+1032,2024-01-20,Electronics,Headphones,2,199.99,East,Consumer,Credit Card
+1033,2024-01-21,Office Supplies,Stapler Set,6,11.99,South,Consumer,Debit Card
+1034,2024-01-21,Electronics,Docking Station,1,189.99,West,Business,Credit Card
+1035,2024-01-22,Furniture,Task Chair,1,249.99,North,Home Office,PayPal
+1036,2024-01-22,Electronics,Ethernet Switch,1,79.99,East,Business,Credit Card
+1037,2024-01-23,Office Supplies,Calculator,3,24.99,South,Business,Debit Card
+1038,2024-01-23,Electronics,Keyboard Wrist Rest,4,18.99,West,Consumer,PayPal
+1039,2024-01-24,Furniture,Storage Cabinet,1,349.99,North,Business,Credit Card
+1040,2024-01-24,Electronics,Smart Power Strip,2,39.99,East,Home Office,Credit Card
+1041,2024-01-25,Office Supplies,Planner,8,16.99,South,Consumer,Debit Card
+1042,2024-01-25,Electronics,Wireless Earbuds,3,79.99,West,Consumer,PayPal
+1043,2024-01-26,Furniture,Sit-Stand Converter,1,299.99,North,Business,Credit Card
+1044,2024-01-26,Electronics,Cable Management Kit,5,19.99,East,Business,Credit Card
+1045,2024-01-27,Office Supplies,Clipboards,10,6.99,South,Business,Debit Card
+1046,2024-01-27,Electronics,Portable Charger,4,49.99,West,Consumer,PayPal
+1047,2024-01-28,Furniture,Guest Chair,2,129.99,North,Business,Credit Card
+1048,2024-01-28,Electronics,Screen Protector,8,12.99,East,Consumer,Credit Card
+1049,2024-01-29,Office Supplies,Tape Dispenser,6,9.99,South,Home Office,Debit Card
+1050,2024-01-29,Electronics,Surge Protector,3,34.99,West,Business,Credit Card
