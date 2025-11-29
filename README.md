@@ -101,7 +101,7 @@ python -m pytest -v
 python -m unittest discover tests -v
 ```
 
-The `outputs/assignment_all_tests.png` file contains the screenshot of all tests passing.
+The `outputs/assignment_pytests.png` file contains the screenshot of all tests passing.
 
 ---
 
